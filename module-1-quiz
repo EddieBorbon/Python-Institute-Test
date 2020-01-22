@@ -1,0 +1,34 @@
+1-Python is an example of:
+- A machine language
+* a high-level programming language
+- a natural language
+
+2-A complete set of known commands is called
+* an instruction list
+- a machine list
+- a low-level lit
+
+3-What is a source code?
+* machine code executed by computers
+
+4-What do you call a computer program which directly executes instructions written in a programming language?
+* An interpreter
+
+5- What Python version is covered in this course?
+* Python 3
+
+6-What is CPython
+* The default implementation of the Python programming language
+
+7- What is IDLE?
+* It's an acronym that stands for Integrated Development and Learning Enviroment for Python
+
+8- What do you call a tool that lets you launch your code step by step and inspect it at each moment of execution?
+* A debugger
+
+9-How did Python, the programming language, get its name?
+* Guido Van Rossum named it to honor Monty Python's Flygin Circus, a BBC comedy series popular in the 1970s
+
+10- Which one of the following is an example of a Python file extesion?
+* py
+
